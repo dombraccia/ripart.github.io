@@ -2,35 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Reena Philips</title>
-    <link>https://rip-art.com/portfolio/</link>
+    <link>/portfolio/</link>
     <description>Recent content in Portfolios on Reena Philips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Aug 2021 19:53:42 +0530</lastBuildDate><atom:link href="https://rip-art.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 19:53:42 +0530</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LUNA</title>
-      <link>https://rip-art.com/portfolio/luna/</link>
+      <title>DOG1</title>
+      <link>/portfolio/sean/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
       
-      <guid>https://rip-art.com/portfolio/luna/</guid>
+      <guid>/portfolio/sean/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LUNA</title>
+      <link>/portfolio/luna/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/luna/</guid>
       <description>&lt;p&gt;8.5&#39; x 10&#39; watercolor and colored pencil&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>LUNA</title>
+      <link>/portfolio/wavy-watercolor/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/wavy-watercolor/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WALL PIECE</title>
+      <link>/portfolio/wall-piece/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/wall-piece/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KITTY</title>
+      <link>/portfolio/kitty/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/kitty/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>STITCHING</title>
+      <link>/portfolio/stitching/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/stitching/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SHRINKY DINK</title>
+      <link>/portfolio/tad-shrinky-dink/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/tad-shrinky-dink/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>DEX AND EVA</title>
-      <link>https://rip-art.com/portfolio/dex-and-eva/</link>
+      <link>/portfolio/dex-and-eva/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rip-art.com/portfolio/dex-and-eva/</guid>
+      <guid>/portfolio/dex-and-eva/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SAM</title>
-      <link>https://rip-art.com/portfolio/sam/</link>
+      <link>/portfolio/sam/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rip-art.com/portfolio/sam/</guid>
+      <guid>/portfolio/sam/</guid>
       <description>&lt;p&gt;9&amp;quot; x 13.5&amp;quot; watercolor and colored pencil&lt;/p&gt;
 &lt;p&gt;this portrait was made for an old friend when their partner passed away.&lt;/p&gt;</description>
     </item>

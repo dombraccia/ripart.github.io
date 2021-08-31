@@ -2,35 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rip-art.com/portfolio/luna/</loc>
+    <loc>/portfolio/sean/</loc>
     <lastmod>2021-08-28T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://rip-art.com/portfolio/dex-and-eva/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rip-art.com/portfolio/sam/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rip-art.com/hs-portfolio/sean/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rip-art.com/portfolio/</loc>
+    <loc>/portfolio/luna/</loc>
     <lastmod>2021-08-28T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://rip-art.com/</loc>
+    <loc>/portfolio/wavy-watercolor/</loc>
     <lastmod>2021-08-28T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://rip-art.com/hs-portfolio/</loc>
+    <loc>/portfolio/wall-piece/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/portfolio/kitty/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/portfolio/stitching/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/portfolio/tad-shrinky-dink/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/portfolio/dex-and-eva/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rip-art.com/contact/</loc>
+    <loc>/portfolio/sam/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-28T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>https://rip-art.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://rip-art.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://rip-art.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
