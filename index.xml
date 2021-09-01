@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>LUNA</title>
-      <link>/portfolio/wavy-watercolor/</link>
-      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
-      
-      <guid>/portfolio/wavy-watercolor/</guid>
-      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>WALL PIECE</title>
       <link>/portfolio/wall-piece/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
@@ -44,11 +35,20 @@
     </item>
     
     <item>
-      <title>KITTY</title>
-      <link>/portfolio/kitty/</link>
+      <title>WAVY WATERS</title>
+      <link>/portfolio/wavy-watercolor/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/kitty/</guid>
+      <guid>/portfolio/wavy-watercolor/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BELLA</title>
+      <link>/portfolio/bella/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/bella/</guid>
       <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
     </item>
     
