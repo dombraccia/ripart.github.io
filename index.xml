@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>WAVY WATERS</title>
-      <link>/portfolio/wavy-watercolor/</link>
-      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
-      
-      <guid>/portfolio/wavy-watercolor/</guid>
-      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>SAM</title>
       <link>/portfolio/sam/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
@@ -45,20 +36,20 @@
     </item>
     
     <item>
-      <title>BELLA</title>
-      <link>/portfolio/bella/</link>
+      <title>WAVY WATERS</title>
+      <link>/portfolio/wavy-watercolor/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/bella/</guid>
+      <guid>/portfolio/wavy-watercolor/</guid>
       <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>STITCHING</title>
-      <link>/portfolio/stitching/</link>
+      <title>WALL PIECE</title>
+      <link>/portfolio/wall-piece/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/stitching/</guid>
+      <guid>/portfolio/wall-piece/</guid>
       <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
     </item>
     
@@ -72,11 +63,20 @@
     </item>
     
     <item>
-      <title>WALL PIECE</title>
-      <link>/portfolio/wall-piece/</link>
+      <title>STITCHING</title>
+      <link>/portfolio/stitching/</link>
       <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/wall-piece/</guid>
+      <guid>/portfolio/stitching/</guid>
+      <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BELLA</title>
+      <link>/portfolio/bella/</link>
+      <pubDate>Sat, 28 Aug 2021 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/bella/</guid>
       <description>&lt;p&gt;thumbnail&lt;/p&gt;</description>
     </item>
     
